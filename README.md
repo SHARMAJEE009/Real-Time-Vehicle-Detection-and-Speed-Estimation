@@ -3,3 +3,4 @@
 #Ensured real-time performance and seamless video output, displaying speed information on the video feed.
 # vehicle-speed-detection-using-opencv-python
 xml file vehicle detection 
+install Dlib 
